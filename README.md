@@ -1,32 +1,34 @@
-# git init ---> inicializa um repositorio vazio
+# comandos Git
 
-# git add ou <.> para todos ---> adiciona arquivo ao git
+git init ---> inicializa um repositorio vazio.\
 
-# git status ---> visualiza o status do git
+git add ou <.> para todos ---> adiciona arquivo ao git.\
 
-# git commit -m "mensagem commit" ---> commita
+git status ---> visualiza o status do git.\
 
-# git branch -M "nome" ---> renomeia um branch
+git commit -m "mensagem commit" ---> commita.\
 
-# git remote add origin <(link repositorio)> ---> set origem do git
+git branch -M "nome" ---> renomeia um branch.\
 
-# git push -u origin "branch"(main)---> empurra os arquivos para o git
+git remote add origin <(link repositorio)> ---> set origem do git.\
 
-# git checkout -b "nome branch" ---> cria novo brench ou troca de brench
+git push -u origin "branch"(main)---> empurra os arquivos para o git.\
 
-# git merge ---> junta um brench com atual logada
+git checkout -b "nome branch" ---> cria novo brench ou troca de brench.\
 
-# git clone ---> copia todos os arquivos do repositorio github para maquina
+git merge ---> junta um brench com atual logada.\
 
-# git pull ---> atualiza os arquivos da maquina com o do repositorio baixa os arquivos do repositorio pendentes
+git clone ---> copia todos os arquivos do repositorio github para maquina.\
 
-# git log --oneline ---> visualiza commits hashs (codigo do commit e descricao)
+git pull ---> atualiza os arquivos da maquina com o do repositorio baixa os arquivos do repositorio pendentes.\
 
-# git push origin +^: ---> deleta commits no repositorio
+git log --oneline ---> visualiza commits hashs (codigo do commit e descricao).\
 
-# git reset HEAD~ ---> reseta para o ultimo commit ou desejado
+git push origin +^: ---> deleta commits no repositorio.\
 
-# -----------------------------------------------------
+git reset HEAD~ ---> reseta para o ultimo commit ou desejado.\
+
+---------------------------------------------------------------------------------
 
 # inicializar um projeto React
 
